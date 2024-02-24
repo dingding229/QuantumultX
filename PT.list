@@ -1,0 +1,40 @@
+#======================================#
+#更新时间 2024-02-24
+#======================================#
+
+# > HDB
+DOMAIN-SUFFIX, hdbits.org
+
+# > PTP
+DOMAIN-SUFFIX,passthepopcorn.me
+DOMAIN-SUFFIX,ptpimg
+
+# > BTN
+DOMAIN-SUFFIX,broadcasthe.net
+
+# > BHD
+DOMAIN-SUFFIX,beyond-hd.me
+
+# > RED
+DOMAIN-SUFFIX,redacted.ch
+
+# > GGN
+DOMAIN-SUFFIX,gazellegames.net
+
+#> AB
+DOMAIN-SUFFIX,animebytes.tv
+
+# > HDT
+DOMAIN-SUFFIX,hd-torrents.org
+DOMAIN-SUFFIX,hdts.ru
+
+# > EMP
+DOMAIN-SUFFIX,empornium.sx
+DOMAIN-SUFFIX,empornium.is
+
+# > AVZ
+DOMAIN-SUFFIX,avistaz.to
+
+# > OMG
+DOMAIN-SUFFIX,omgwtfnzbs.org
+DOMAIN-SUFFIX,omgwtfnzbs.me
