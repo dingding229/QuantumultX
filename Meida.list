@@ -169,3 +169,9 @@ DOMAIN,direct.nebula-emby.com
 # > aca
 DOMAIN,emby.aca.best
 DOMAIN,porn.aca.best
+
+# > MJJ
+DOMAIN,facmata.net
+
+# > OneDrive
+DOMAIN-SUFFIX,onedrive.dzw229.workers.dev
