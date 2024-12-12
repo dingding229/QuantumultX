@@ -177,5 +177,4 @@ DOMAIN,facmata.net
 DOMAIN-SUFFIX,onedrive.dzw229.workers.dev
 
 # > Plex
-DOMAIN-SUFFIX,plex.tv
-DOMAIN-KEYWORD,plex.direct
+DOMAIN-KEYWORD,plex
