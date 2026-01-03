@@ -178,3 +178,6 @@ DOMAIN-SUFFIX,onedrive.dzw229.workers.dev
 
 # > Plex
 DOMAIN-KEYWORD,plex
+
+# > UHD
+DOMAIN-KEYWORD,rfc.uhdnow.com
