@@ -1,3 +1,6 @@
 # > Long Emby
 DOMAIN-SUFFIX,jpcdn.longemby.com
 DOMAIN-SUFFIX,hkcdn.longemby.com
+
+# > HDsky Emby
+DOMAIN-SUFFIX,lovehd.de
