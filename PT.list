@@ -81,5 +81,8 @@ DOMAIN-SUFFIX,morethantv.me
 # > TVV
 DOMAIN-SUFFIX,tv-vault.me
 
-# > TVV
+# > HDDolby
 DOMAIN-SUFFIX,hddolby.com
+
+# > ATH
+DOMAIN-SUFFIX,aither.cc
