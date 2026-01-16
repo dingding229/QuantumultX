@@ -86,3 +86,6 @@ DOMAIN-SUFFIX,hddolby.com
 
 # > ATH
 DOMAIN-SUFFIX,aither.cc
+
+# > Seedbox
+IP-CIDR,51.38.62.0/24
