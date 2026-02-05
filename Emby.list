@@ -181,3 +181,8 @@ DOMAIN-KEYWORD,plex
 
 # > UHD
 DOMAIN-SUFFIX,rfc.uhdnow.com
+
+# > Lily
+DOMAIN-SUFFIX,www.lilyemby.com
+DOMAIN-SUFFIX,tx.lilyemby.com
+DOMAIN-SUFFIX,aliyun.lilyemby.com
