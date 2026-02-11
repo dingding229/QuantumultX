@@ -186,3 +186,6 @@ DOMAIN-SUFFIX,rfc.uhdnow.com
 DOMAIN-SUFFIX,www.lilyemby.com
 DOMAIN-SUFFIX,tx.lilyemby.com
 DOMAIN-SUFFIX,aliyun.lilyemby.com
+
+# > SNTP
+DOMAIN-SUFFIX,lite.cn2gias.uk
