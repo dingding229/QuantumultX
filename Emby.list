@@ -161,7 +161,8 @@ DOMAIN-SUFFIX,gfwemby.org
 DOMAIN-SUFFIX,loseremby.org
 
 # > Cc
-DOMAIN,cc.ccemby.tk
+DOMAIN-SUFFIX,coemn.com
+DOMAIN-SUFFIX,embycc.link
 
 # > Nebula
 DOMAIN,direct.nebula-emby.com
