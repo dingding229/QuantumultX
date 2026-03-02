@@ -1,6 +1,8 @@
 # > Long Emby
 DOMAIN-SUFFIX,jpcdn.longemby.com
 DOMAIN-SUFFIX,hkcdn.longemby.com
+DOMAIN-SUFFIX,pkstream-hk.longemby.top
+DOMAIN-SUFFIX,pkstream-jp.longemby.top
 
 # > Lily
 DOMAIN-SUFFIX,cdn.lilyemby.com
