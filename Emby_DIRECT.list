@@ -9,3 +9,7 @@ DOMAIN-SUFFIX,cdn.lilyemby.com
 
 # > xyz
 DOMAIN-SUFFIX,emby.yun
+
+# > CF优选
+DOMAIN-SUFFIX,myg.ding229.ggff.net
+DOMAIN-SUFFIX,xq.ding229.ggff.net
