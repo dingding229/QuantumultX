@@ -93,5 +93,7 @@ DOMAIN-SUFFIX,usenethd.li
 # > ATH
 DOMAIN-SUFFIX,aither.cc
 
+# > U4A
+DOMAIN-SUFFIX,usenet-4all.pw
 # > Seedbox
 IP-CIDR,51.38.62.0/24
