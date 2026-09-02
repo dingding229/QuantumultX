@@ -94,4 +94,4 @@ DOMAIN-SUFFIX,usenethd.li
 DOMAIN-SUFFIX,aither.cc
 
 # > Seedbox
-IP-CIDR,51.38.62.0/24
+IP-CIDR,185.194.141.0/24
