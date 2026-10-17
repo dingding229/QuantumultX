@@ -1,5 +1,5 @@
 #======================================#
-#更新时间 2025-06-05
+#更新时间 2026-10-17
 #======================================#
 # > Gemini&Bard
 DOMAIN-SUFFIX,gemini.google.com
@@ -27,6 +27,11 @@ DOMAIN-SUFFIX,clerk.com
 DOMAIN-SUFFIX,challenges.cloudflare.com
 DOMAIN-KEYWORD,anthropic
 DOMAIN-KEYWORD,claude
+
+# > Grok
+DOMAIN-SUFFIX,grok.com
+DOMAIN-SUFFIX,x.ai
+DOMAIN-KEYWORD,grok
 
 # > OpenAI
 DOMAIN-SUFFIX,chat.com
